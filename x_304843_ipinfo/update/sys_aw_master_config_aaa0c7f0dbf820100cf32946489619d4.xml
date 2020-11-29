@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="IpInfo Spoke">baa0c7f0dbf820100cf32946489619d5</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="IpInfo Spoke Search Context Config">2ea0c7f0dbf820100cf32946489619d2</global_search_data>
+        <name>IpInfo Spoke</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-28 08:05:04</sys_created_on>
+        <sys_id>aaa0c7f0dbf820100cf32946489619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IpInfo Spoke</sys_name>
+        <sys_package display_value="IpInfo Spoke" source="x_304843_ipinfo">18508ff8dbb820100cf32946489619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IpInfo Spoke">18508ff8dbb820100cf32946489619aa</sys_scope>
+        <sys_update_name>sys_aw_master_config_aaa0c7f0dbf820100cf32946489619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-28 08:05:04</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>ipinfo_spoke</workspace_url>
+    </sys_aw_master_config>
+</record_update>
